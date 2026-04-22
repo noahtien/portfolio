@@ -1,6 +1,7 @@
 # Sports Data Analyst
 
-#### Technical Skills: Python, SQL, R
+### Technical Skills
+Python | SQL | R
 
 ### Education
 - B.S., Kinesiology | The University of Texas at Austin
