@@ -9,5 +9,6 @@ Python | SQL | R
 - Relevant Coursework: Performance and Sports Analytics, Statistics, Data Science, Computer Programming
   
 ### Projects
+https://github.com/noahtien/lebron-playoff-analysis
 
 ### Work Experience
